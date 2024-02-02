@@ -1,0 +1,402 @@
+[
+  {
+    "id": "anime-01",
+    "titulo": "Anime 01",
+    "imagen": "./img/anime/1.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-02",
+    "titulo": "Anime 02",
+    "imagen": "./img/anime/2.jpeg",
+    "categoria": {
+      "nombre": "Animes",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-03",
+    "titulo": "Anime 03",
+    "imagen": "./img/anime/3.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-04",
+    "titulo": "Anime 04",
+    "imagen": "./img/anime/4.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-05",
+    "titulo": "Anime 05",
+    "imagen": "./img/anime/5.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-06",
+    "titulo": "Anime 06",
+    "imagen": "./img/anime/6.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-07",
+    "titulo": "Anime 07",
+    "imagen": "./img/anime/7.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-08",
+    "titulo": "Anime 08",
+    "imagen": "./img/anime/8.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-09",
+    "titulo": "Anime 09",
+    "imagen": "./img/anime/9.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-10",
+    "titulo": "Anime 10",
+    "imagen": "./img/anime/10.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-11",
+    "titulo": "Anime 11",
+    "imagen": "./img/anime/11.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-12",
+    "titulo": "Anime 12",
+    "imagen": "./img/anime/12.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-13",
+    "titulo": "Anime 13",
+    "imagen": "./img/anime/13.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-14",
+    "titulo": "Anime 14",
+    "imagen": "./img/anime/14.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-15",
+    "titulo": "Anime 15",
+    "imagen": "./img/anime/15.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-16",
+    "titulo": "Anime 16",
+    "imagen": "./img/anime/16.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-17",
+    "titulo": "Anime 17",
+    "imagen": "./img/anime/17.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "anime-18",
+    "titulo": "Anime 18",
+    "imagen": "./img/anime/18.jpeg",
+    "categoria": {
+      "nombre": "Anime",
+      "id": "anime"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-01",
+    "titulo": "Rock 01",
+    "imagen": "./img/rock/1.jpeg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-02",
+    "titulo": "Rock 02",
+    "imagen": "./img/rock/02.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-03",
+    "titulo": "Rock 03",
+    "imagen": "./img/rock/03.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-04",
+    "titulo": "Rock 04",
+    "imagen": "./img/rock/04.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-05",
+    "titulo": "Rock 05",
+    "imagen": "./img/rock/05.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-06",
+    "titulo": "Rock 06",
+    "imagen": "./img/rock/06.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-07",
+    "titulo": "Rock 07",
+    "imagen": "./img/rock/07.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "rock-08",
+    "titulo": "Rock 08",
+    "imagen": "./img/rock/08.jpg",
+    "categoria": {
+      "nombre": "Rock",
+      "id": "rock"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-01",
+    "titulo": "Otros 01",
+    "imagen": "./img/otros/1.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-02",
+    "titulo": "Otros 02",
+    "imagen": "./img/otros/2.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-03",
+    "titulo": "Otros 03",
+    "imagen": "./img/otros/3.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-04",
+    "titulo": "Otros 04",
+    "imagen": "./img/otros/4.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-05",
+    "titulo": "Otros 05",
+    "imagen": "./img/otros/5.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-06",
+    "titulo": "Otros 06",
+    "imagen": "./img/otros/6.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-07",
+    "titulo": "Otros 07",
+    "imagen": "./img/otros/7.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-08",
+    "titulo": "Otros 08",
+    "imagen": "./img/otros/8.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-09",
+    "titulo": "Otros 09",
+    "imagen": "./img/otros/9.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-10",
+    "titulo": "Otros 10",
+    "imagen": "./img/otros/10.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-11",
+    "titulo": "Otros 11",
+    "imagen": "./img/otros/11.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-11",
+    "titulo": "Otros 11",
+    "imagen": "./img/otros/12.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-11",
+    "titulo": "Otros 11",
+    "imagen": "./img/otros/13.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "otros-12",
+    "titulo": "Otros 12",
+    "imagen": "./img/otros/14.jpeg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 20000
+  }
+]
